@@ -1,0 +1,16 @@
+The Tech I used in this Full Stack Project are:
+
+FRONTEND:
+*   React
+*   Firebase Hosting
+*   Material UI
+*   Flexbox
+*   3rd Party Ticker
+*   Scroll snap
+
+BACKEND:
+*   Node.js
+*   Express.js Server
+*   MongoDB
+*   Mongoose
+*   Hosting on Heroko
